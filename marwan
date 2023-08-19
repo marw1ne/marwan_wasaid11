@@ -1,0 +1,24 @@
+marwan_wasaid11 .json
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .verified-badge {
+    display: inline-block;
+    background-color: #1da1f2;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 999px;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<h1>Welcome to My Website</h1>
+<p>This is some content on the page.</p>
+
+<span class="verified-badge">Verified</span>
+
+</body>
+</html>
